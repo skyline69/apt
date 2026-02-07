@@ -1,0 +1,16 @@
+Package: agcp
+Version: 1.0.1
+Architecture: arm64
+Maintainer: skyline69 <skyline@noreply.codeberg.org>
+Filename: pool/main/agcp_1.0.1_arm64.deb
+Size: 2062258
+MD5sum: 3b3055c9f9ea62aecca071097d317fdf
+SHA1: 0535b80142c263d36d1c346ae81f2f4d0dfe03c0
+SHA256: 2be2d8c12317609c548a8376f682843ccc79ef13531fdcff5022bd6fdef72621
+Section: utils
+Priority: optional
+Homepage: https://github.com/skyline69/agcp
+Description: Lightweight Rust proxy translating Anthropic Claude API to Google Cloud Code API
+ AGCP enables Claude and Gemini models through a single Anthropic-compatible endpoint.
+License: MIT
+
