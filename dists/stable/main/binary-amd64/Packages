@@ -1,12 +1,12 @@
 Package: agcp
-Version: 1.2.0
+Version: 1.2.1
 Architecture: amd64
 Maintainer: skyline69 <skyline@noreply.codeberg.org>
-Filename: pool/main/agcp_1.2.0_amd64.deb
-Size: 2307548
-MD5sum: 6d1ad90293612ebc3cea4622bddd1869
-SHA1: a9458dc52d0b4a09ed0e095ad646756565d6cf34
-SHA256: 003810cb55e7fb1f5b2fd766f899680825620be13af0e3e4883f29c14cc8a1ae
+Filename: pool/main/agcp_1.2.1_amd64.deb
+Size: 2306038
+MD5sum: a931d9a5e5d0ec44e8a590b4b12bffc1
+SHA1: a18b4070d053aa2db768c3fa5a6a43f946533ace
+SHA256: d4eedd4f5405bd4c489812d4d8f5ec1d501dfc90e7a279f74f364af814a34abb
 Section: utils
 Priority: optional
 Homepage: https://github.com/skyline69/agcp
