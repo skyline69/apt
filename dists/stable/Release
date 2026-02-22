@@ -6,12 +6,12 @@ Architectures: amd64 arm64
 Components: main
 Description: APT repository for AGCP
 MD5Sum:
- 0d6d0f6c2bafebda3b86569a2fc86581 591 main/binary-amd64/Packages
- 2689ed10b6a481e25d7746a5eeaafd38 443 main/binary-amd64/Packages.gz
- 3165c4c149d4f81715a3fc7e6360f7b9 591 main/binary-arm64/Packages
- aa2becf2139e89426d80217a65258585 440 main/binary-arm64/Packages.gz
+ e5f9b935ed5a2885dd0d12112cfe5787 591 main/binary-amd64/Packages
+ 2cecf01f3f6ef27471199c971016e27e 442 main/binary-amd64/Packages.gz
+ b4abeb2d2a7e7860621db9df5cababfd 591 main/binary-arm64/Packages
+ 97fa61597a654fa8faf1f7337872574a 443 main/binary-arm64/Packages.gz
 SHA256:
- 76af3629a6ed752c53ed62b91d62615f170a1c06312c861a8e664d4c8d0f2148 591 main/binary-amd64/Packages
- caf592e25c527db25188d8127cef99776b86eeaf7284b6f3757a82b26936d5ab 443 main/binary-amd64/Packages.gz
- 321b1fcad0867811e9412bedba55271663732634e58661ab7ba0a3cbd64c6a8c 591 main/binary-arm64/Packages
- efedbd53953a01a87a2b302f832a191edd2f53cc8b1056ee2dfb7f04c7c14803 440 main/binary-arm64/Packages.gz
+ e7a516957655464920d9114b3a2485589cb2f581e5180cfa458f07b2859fbe6a 591 main/binary-amd64/Packages
+ ab56ff28abe55a8beec02d63e9682f3ee5d13a2cc39ba16024df2e17e561d35a 442 main/binary-amd64/Packages.gz
+ 3fc535206f32e3bba8a14813c49a069f971aba0753c6c2699e473dbb1d6029d9 591 main/binary-arm64/Packages
+ c85b44b32681ca94137ebd47784915d8fce703990df75a4d463b45ad88879e9c 443 main/binary-arm64/Packages.gz
