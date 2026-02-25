@@ -1,12 +1,12 @@
 Package: agcp
-Version: 1.3.0
+Version: 1.3.1
 Architecture: amd64
 Maintainer: skyline69 <skyline@noreply.codeberg.org>
-Filename: pool/main/agcp_1.3.0_amd64.deb
-Size: 2508714
-MD5sum: 1a94680f1d6f6ae7a5d7affc8923db6e
-SHA1: e34f1f68571f7ea24ab7f488117c0937b7957917
-SHA256: 0fad1a9e422c04d0ea6e43eb6cc07f7edeed345a89329386faa66bdfdfe1e64f
+Filename: pool/main/agcp_1.3.1_amd64.deb
+Size: 2580186
+MD5sum: 0ec5c1c77d2e8f44d778e724d8bf5e9f
+SHA1: 1178d27aac6d663abbe615d373a30cc95232beef
+SHA256: f8c9c3f412eadede42c34799eb4dade685ee566656e8e7f01bcc4aaeca3dc46b
 Section: utils
 Priority: optional
 Homepage: https://github.com/skyline69/agcp
